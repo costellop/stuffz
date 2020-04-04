@@ -10,14 +10,9 @@ function App() {
         <p>
           PATRICK COSTELLO
         </p>
-        <a
-          className="App-link"
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Definitely don't click here
-        </a>
+        
+        
+         
       </header>
     </div>
   );
