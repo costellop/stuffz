@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/costellop/stuffz.git/static/css/main.717801aa.chunk.css",
+    "main.js": "/costellop/stuffz.git/static/js/main.2c1a3ac2.chunk.js",
+    "main.js.map": "/costellop/stuffz.git/static/js/main.2c1a3ac2.chunk.js.map",
+    "runtime-main.js": "/costellop/stuffz.git/static/js/runtime-main.cc64087e.js",
+    "runtime-main.js.map": "/costellop/stuffz.git/static/js/runtime-main.cc64087e.js.map",
+    "static/js/2.a430f49c.chunk.js": "/costellop/stuffz.git/static/js/2.a430f49c.chunk.js",
+    "static/js/2.a430f49c.chunk.js.map": "/costellop/stuffz.git/static/js/2.a430f49c.chunk.js.map",
+    "index.html": "/costellop/stuffz.git/index.html",
+    "precache-manifest.27073f5c550f89489fa01be3cc72f70c.js": "/costellop/stuffz.git/precache-manifest.27073f5c550f89489fa01be3cc72f70c.js",
+    "service-worker.js": "/costellop/stuffz.git/service-worker.js",
+    "static/css/main.717801aa.chunk.css.map": "/costellop/stuffz.git/static/css/main.717801aa.chunk.css.map",
+    "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/costellop/stuffz.git/static/js/2.a430f49c.chunk.js.LICENSE.txt",
+    "static/media/KRAB.jpg": "/costellop/stuffz.git/static/media/KRAB.8fc7dd60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc64087e.js",
+    "static/js/2.a430f49c.chunk.js",
+    "static/css/main.717801aa.chunk.css",
+    "static/js/main.2c1a3ac2.chunk.js"
+  ]
+}
